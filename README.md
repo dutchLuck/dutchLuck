@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dutchLuck, an ex-electronic engineer and ex-linux-sysadmin, who (generally) enjoys programming. I rue the pace of my self-education and I am a very slow creator of code.
 - 👀 I’m interested in time, particularly accurate computer time. I'm also interested in data acquistion and may develop code to retrieve information from a Photovoltaic Power system.
-- 🌱 I’m currently revisiting C language programming, but I am happy to dabble with almost any procedural language.
+- 🌱 I’m currently dabbling with Copilot AI and using it for a bit of a hand-up on Rust language programming, but I am happy to experiment with almost any procedural language.
 My first formal education in programming was
 <a href="https://en.wikipedia.org/wiki/Fortran#:~:text=Fortran%20(%2Fˈf%C9%94%CB%90rt,%2Doriented)%2C%20generic%2C%20array">Fortran</a> on punched cards. Informally, I taught myself
 <a href="https://en.wikipedia.org/wiki/BASIC#:~:text=BASIC%20(Beginners'%20All%2Dpurpose,at%20Dartmouth%20College%20in%201963.">Basic</a> and I also started learning low-level programming by hand assembling National Semiconductor
